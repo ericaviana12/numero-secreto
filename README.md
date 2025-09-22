@@ -8,8 +8,6 @@ Um jogo simples em que o jogador tenta adivinhar um número aleatório gerado pe
 
 Esse projeto foi desenvolvido como exercício no curso de Lógica de Programação da Alura. Serve para praticar conceitos básicos de JavaScript, manipulação de DOM, HTML e CSS, bem como lógica de comparação de valores.
 
-[GitHub](https://github.com/ericaviana12/numero-secreto)
-
 ---
 
 ## 🛠️ Tecnologias
@@ -39,8 +37,6 @@ Esse projeto foi desenvolvido como exercício no curso de Lógica de Programaç�
 | `img/`       | Imagens usadas no site.                                                          |
 | `LICENSE`    | Licença do projeto — MIT.                                                                    |
 
-[GitHub](https://github.com/ericaviana12/numero-secreto)
-
 ---
 
 ## 📝 Licença
@@ -51,4 +47,4 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## Autoria
 
-Esse repositório foi desenvolvido por **([Erica Viana](https://github.com/ericaviana12))**.
+Esse repositório foi desenvolvido por **[Erica Viana](https://github.com/ericaviana12)**.
